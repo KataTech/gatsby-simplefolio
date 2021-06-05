@@ -45,6 +45,7 @@ export const projectsData = [
     info2:
       "I was in charge of implementing the linear model, outputing the coefficients and predicted win rates, demonstrating variable coefficient changes over time through visualization, writing presentation-friendly explanations in the Jupyter notebook through the markup tool, and optimizing our project's transferability with new season data by implementing it as a function. Overall, our project predicted the win rates with an average root mean squared error of 6.56%.",
     url: 'https://github.com/KataTech/NBA-Analysis',
+    repo: "https://github.com/KataTech/NBA-Analysis/blob/main/Jocks'_Box.ipynb",
   },
   {
     id: nanoid(),
