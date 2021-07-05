@@ -23,7 +23,8 @@ export const aboutData = {
   paragraphTwo:
     'As a first generation student studying Computer Science and Statistics at Rice University, I am always looking for opportunities to grow, engage with exciting new technology, and build projects that actually benefit the community that has provided me with so much support. Currently, I am working as a research intern at MD Anderson analyzing big Data to extract insights for cancer treatment, learning web development to contribute to Rice Carpool, a ride-sharing web application made for Rice students, and expanding my knowledge by reading Intro to Statistical Learning. ',
   paragraphThree: 'Keep scrolling to see more!',
-  resume: 'https://drive.google.com/file/d/1KgWhrBLBGPJr9HTmZSXgAz5BswodzbBU/view?usp=sharing', // if no resume, the button will not show up
+  resume:
+    'https://docs.google.com/document/d/1gBfVl1xyQDEh8sLamYeOB_O07IcmjeaWnyuEjz83B0I/edit?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
